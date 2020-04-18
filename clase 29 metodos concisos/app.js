@@ -16,7 +16,7 @@ var otherPerson = {
     name: 'Susana Alexandra López Medina',
     city: 'Bogotá',
     info() {
-        return this.name + ' (' + this.age + ')' + this.city
+        return `${ this.name } (${ this.age }) ${ this.city }`
     }
 }
 
