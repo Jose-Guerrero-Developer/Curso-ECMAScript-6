@@ -24,6 +24,5 @@ let cuadrado  = new Cuadrado(5)
 console.log(cuadrado.getArea())
 
 /**
-retangulo.getArea(): 6
-cuadrado.getArea(): 25
+Cuadrado: 25
  */
